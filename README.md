@@ -1,7 +1,5 @@
 This course teaches you how to write and run end-to-end (E2E) tests with Cypress - one of the most popular web development E2E testing tools you can use these days!
 
-You will learn:
-
 What exactly Cypress is and why E2E testing matters
 
 How to install and use Cypress
